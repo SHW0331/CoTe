@@ -1,2 +1,2 @@
 # CoTe
-Code Test
+Coding Test
